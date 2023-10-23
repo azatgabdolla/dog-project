@@ -8,4 +8,5 @@ saved_models/weights.best.vgg16.hdf5
 bottleneck_features/DogVGG16Data.npz
 bottleneck_features/DogVGG19Data.npz
 bottleneck_features/DogResnet50Data.npz
-
+bottleneck_features/DogInceptionV3Data.npz
+bottleneck_features/DogXceptionData.npz
